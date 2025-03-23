@@ -22,8 +22,10 @@ StormTrackr is a sleek and modern weather app built with **React.js**. It provid
 ---
 
 ## 🌎 Live Demo
+## 🌎 Live Demo  
+🔗 [StormTrackr Live Here!](https://storm-trackr.vercel.app)  
+👉 https://storm-trackr.vercel.app
 
-🔗 [Live Demo Coming Soon - Deploying on Vercel] *(Need help deploying? Let me know!)*
 
 ---
 
